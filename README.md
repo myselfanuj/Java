@@ -1,3 +1,3 @@
-## JAVA
+# JAVA
 
-# Technology Stacks
+## Technology Stacks

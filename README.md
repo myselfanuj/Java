@@ -1,5 +1,5 @@
 # JAVA
 
->> Java programs
+> Java programs
 ## Technology Stacks
 *  Java 

@@ -2,7 +2,6 @@
 
 
 
-# JAVA
 
 
 ## Technology Stacks
